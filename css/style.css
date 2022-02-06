@@ -95,11 +95,3 @@ padding-bottom: 20 px;
 
     transition: opacity .1s linear;
 }
-
-.nav__link:hover:after,
-
-}
-
-.nav__link.active {
-    color: ;
-}
